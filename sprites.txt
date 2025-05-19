@@ -1,1 +1,5 @@
 H24la,2,3,asfafasffas
+Mapa1,1,2,🔥
+Mapa1,0,0,🏠
+Mapa1,1,2,🔥
+Mapa1,0,0,NombreDeSprite
